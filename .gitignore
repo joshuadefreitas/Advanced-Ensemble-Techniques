@@ -1,0 +1,29 @@
+# RStudio specific files
+.Rproj.user/
+.Rhistory
+.RData
+
+# R package build files
+*.tar.gz
+*.Rcheck/
+*.Rbuildignore
+
+# RStudio settings
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Data
+/data/
+
+# Results
+/results/
+
+# Figures
+/figures/
+
+# Documentation
+/docs/
