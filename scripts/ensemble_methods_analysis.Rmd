@@ -1,6 +1,6 @@
 ---
 title: "Advanced Ensemble Techniques"
-author: "Your Name"
+author: "Joshua de Freitas"
 date: "`r Sys.Date()`"
 output:
   pdf_document:
